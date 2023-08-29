@@ -1,11 +1,17 @@
-### Hi there 👋
+<div align="left">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E6%84%BF%E4%B9%98%E9%95%BF%E9%A3%8E%E7%A0%B4%E4%B8%87%E9%87%8C%E6%B5%AA%EF%BC%81" alt="Typing SVG" />
+  </a>
+</div>
 
-This is **JIANG YUWEI**, I am currently a Master student in NTU. 
+Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in NTU. 
 - 🔭 I’m currently working on my postgraduate dissertation.
 - 🌱 I’m currently learning HTML, Deep Leaning and LLM.
 - 🤔 I’m looking for a job position in Data Analysis/Software Develop Engineering.
 - 📫 How to reach me: jyw20001025@gmail.com
 - 💬 Welcome to ask me about life at NTU!
+
+
 
 
 ✨ My Github Data ✨ 
@@ -31,9 +37,3 @@ This is **JIANG YUWEI**, I am currently a Master student in NTU.
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
-
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=热爱可抵岁月漫长！;让正确的事情持续发生！&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
