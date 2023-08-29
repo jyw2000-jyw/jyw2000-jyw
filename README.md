@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in NTU. 
+Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](https://www.ntu.edu.sg/). 
 - 🔭 I’m currently working on my postgraduate dissertation.
 - 🌱 I’m currently learning HTML, Deep Leaning and LLM.
 - 🤔 I’m looking for a job position in Data Analysis/Software Develop Engineering.
