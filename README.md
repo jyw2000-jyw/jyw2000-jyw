@@ -8,7 +8,7 @@
 
 Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](https://www.ntu.edu.sg/). 
 - 🔭 I’m currently working on my postgraduate dissertation.
-- 🌱 I’m currently learning HTML, Deep Leaning and LLM. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m learning HTML, Deep Leaning and LLM. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I’m looking for a job position in Data Analysis/Software Develop Engineering.
 - 📫 How to reach me: jyw20001025@gmail.com
 - 💬 Welcome to ask me about life at NTU!
