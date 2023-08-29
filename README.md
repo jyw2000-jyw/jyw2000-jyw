@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="right" src="https://github.com/jyw2000-jyw/jyw2000-jyw/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/jyw2000-jyw/jyw2000-jyw/blob/main/developer.gif" alt="Coder GIF" width="320" height="230">
 
 Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](https://www.ntu.edu.sg/). 
 - 🔭 I’m currently working on my postgraduate dissertation.
@@ -14,7 +14,7 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 - 💬 Welcome to ask me about life at NTU!
 
 <!-- 添加空行 -->
-<br/><br/><br/><br/>
+<br/>
 
 ✨ My Github Data ✨ 
 
