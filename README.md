@@ -11,7 +11,7 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 - 📫 How to reach me: jyw20001025@gmail.com
 - 💬 Welcome to ask me about life at NTU!
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://github.com/jyw2000-jyw/jyw2000-jyw/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 ✨ My Github Data ✨ 
 
