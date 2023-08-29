@@ -23,10 +23,6 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyw2000-jyw&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyw2000-jyw&show_icons=true&theme=transparent" style="margin-right: 130px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyw2000-jyw&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" style="margin-left: 10px;" />
-</div>
 
 <!-- 添加空行 -->
 <br/>
