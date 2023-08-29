@@ -18,12 +18,9 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jyw2000-jyw&show_icons=true&theme=transparent" /> 
-</div>
-
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyw2000-jyw&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
