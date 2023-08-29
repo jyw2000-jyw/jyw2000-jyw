@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<img align="right" src="https://github.com/jyw2000-jyw/jyw2000-jyw/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+
 Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](https://www.ntu.edu.sg/). 
 - 🔭 I’m currently working on my postgraduate dissertation.
 - 🌱 I’m currently learning HTML, Deep Leaning and LLM. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -11,8 +13,8 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 - 📫 How to reach me: jyw20001025@gmail.com
 - 💬 Welcome to ask me about life at NTU!
 
-
-<img align="right" src="https://github.com/jyw2000-jyw/jyw2000-jyw/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
+<!-- 添加空行 -->
+<br/><br/><br/><br/>
 
 
 ✨ My Github Data ✨ 
@@ -21,6 +23,7 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
   <img src="https://github-readme-stats.vercel.app/api?username=jyw2000-jyw&show_icons=true&theme=transparent" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyw2000-jyw&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
+
 
 🛠**Tech Stack**
 
