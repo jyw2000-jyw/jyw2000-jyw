@@ -16,7 +16,6 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 <!-- 添加空行 -->
 <br/><br/><br/><br/>
 
-
 ✨ My Github Data ✨ 
 
 <div align="left">
@@ -24,6 +23,8 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyw2000-jyw&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
+<!-- 添加空行 -->
+<br/>
 
 🛠**Tech Stack**
 
@@ -39,6 +40,9 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
+<!-- 添加空行 -->
+<br/>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
