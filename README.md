@@ -11,6 +11,7 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 - 🌱 I’m learning HTML, Deep Leaning and LLM. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I’m looking for a job position in Data Analysis/Software Develop Engineering.
 - 📫 How to reach me: jyw20001025@gmail.com
+- 📚 Here is my ResearchGate: [Link](https://www.researchgate.net/profile/Yuwei-Jiang-19)
 - 💬 Welcome to ask me about life at NTU!
 
 <!-- 添加空行 -->
