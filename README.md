@@ -17,7 +17,7 @@ Hi there👋. This is **JIANG YUWEI**, I am currently a Master student in [NTU](
 <!-- 添加空行 -->
 <br/>
 
-✨ My Github Data ✨ 
+✨ My Github Data✨ 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jyw2000-jyw&show_icons=true&theme=transparent" />
